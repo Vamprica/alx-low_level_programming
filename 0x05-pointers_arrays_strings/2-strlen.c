@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: n
+ * swap_int - a function that swaps the values of two integers
+ * @a: input 1
+ * @b: input 2
+ * Return: integers
  */
 int _strlen(char *s)
 {
