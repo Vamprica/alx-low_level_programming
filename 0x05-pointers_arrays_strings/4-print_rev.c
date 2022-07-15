@@ -2,7 +2,8 @@
 
 /**
  * print_rev - a function that prints a string, in reverse
- *
+ * fcounter is to first count to end, n is to count to back
+ * @s: str input
  * Return: string in reserve
  */
 void print_rev(char *s)
@@ -19,5 +20,7 @@ void print_rev(char *s)
 	{
 		_putchar(s[n]);
 	}
+	{
 	_putchar('\n');
+	}
 }
