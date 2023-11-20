@@ -7,8 +7,6 @@
  *       used in the 0x09-static_libraries directory.
  */
 
-#include <stddef.h>
-
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
